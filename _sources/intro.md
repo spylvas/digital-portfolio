@@ -9,14 +9,12 @@ structured.
 ::::{tab-set}
 
 :::{tab-item} Things I learned
-- First thing
-- Second thing
-- Third thing
+- To build jupyter book to show my data science work
+- New MyST and Shhinx syntaxt to build documents
 :::
 
 :::{tab-item} Things I found difficult
-- First thing
-- Second thing
+- Some instructions could have been a bit more specific.
 :::
 
 ::::
